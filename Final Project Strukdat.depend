@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688454720 source:d:\kuliah\pemrograman\c\final project strukdat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
